@@ -12,11 +12,11 @@ Here's what it looks like when activated on YouTube 👀.
 
 ![Youtube](https://res.cloudinary.com/dd3hmuucq/image/upload/v1626372931/friendsFX/sdfs_tlhg8u.jpg)
 
-
+***
 
 ### Getting started
 
-### Fork the repo and follow the steps below
+#### Fork the repo and follow the steps below
 
 
 1. To upload the extension to your browser extension library. 
@@ -39,3 +39,5 @@ Type this 👉🏼 _chrome://extensions/_ in your browser
 4. The extension gets added and is immediately activated.
 
 5. Now go to any webpage, hold on for about 3 seconds and watch the random picture nicely appear.
+
+***
