@@ -1,0 +1,17 @@
+{
+    
+    "manifest_version": 2,
+    "name": "FriendsFX",
+    "version": "1.0.1",
+    "description": "Converts every image on a webpage to random pictures of some of my friends",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": { "16": "icon.png",
+        "48": "icon.png",
+       "128": "icon.png" }
+       
+}
