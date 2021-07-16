@@ -8,19 +8,19 @@ Here's what it looks like when activated on YouTube 👀.
 
 ![Youtube](https://res.cloudinary.com/dd3hmuucq/image/upload/v1626372936/friendsFX/sddd_w6nxdb.jpg)
 
-...
-
-![Youtube](https://res.cloudinary.com/dd3hmuucq/image/upload/v1626372931/friendsFX/sdfs_tlhg8u.jpg)
 
 ***
 
 ### Getting started
+Follow the steps below
 
-#### Fork the repo and follow the steps below
+
+1. Fork the repo
+`git clone https://github.com/Abidoyinsola1/awele-fashion-store.git`
 
 
-1. To upload the extension to your browser extension library. 
-Type this 👉🏼 _chrome://extensions/_ in your browser
+2. Now you need to upload the extension to your chrome extension library.
+Type this 👉🏼 _chrome://extensions/_ in your chrome browser
 
 
 ![Access chrome extensions library](https://res.cloudinary.com/dd3hmuucq/image/upload/v1626407266/friendsFX/1._chrome_extension_lttgyp.jpg)
@@ -38,6 +38,8 @@ Type this 👉🏼 _chrome://extensions/_ in your browser
 
 4. The extension gets added and is immediately activated.
 
-5. Now go to any webpage, hold on for about 3 seconds and watch the random picture nicely appear.
+5. Now go to any webpage, hold on for about 4 seconds and watch the selected pictures appear.
 
 ***
+
+![Youtube](https://res.cloudinary.com/dd3hmuucq/image/upload/v1626372931/friendsFX/sdfs_tlhg8u.jpg)
