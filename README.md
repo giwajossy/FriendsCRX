@@ -13,7 +13,7 @@ Here's what it looks like when activated on YouTube 👀.
 ### Getting started
 
 
-1. Fork the repo  
+1. Clone the repo  
 `git clone https://github.com/Abidoyinsola1/awele-fashion-store.git`
 
 
