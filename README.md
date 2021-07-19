@@ -14,10 +14,10 @@ Here's what it looks like when activated on YouTube 👀.
 
 
 1. Clone the repo  
-`git clone https://github.com/Abidoyinsola1/awele-fashion-store.git`
+`$ git clone https://github.com/giwajossy/FriendsCRX.git`
 
 
-2. Now you need to upload the extension to your chrome extension library.  
+2. Upload the extension to your chrome extension library.  
 Type this 👉🏼 _chrome://extensions/_ in your chrome browser
 
 
